@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m a robotics and ML enthusiast , currently pursuing a BTech degree in EE at IIT Gandhinagar.<br>🌱 I’m currently learning to think , innovate and solve like an engineer.<br>⚡ Fun fact  I'm a chess fan
+🔭 I’m currently pursuing a BTech degree in Electrical Engineering at IIT Gandhinagar.<br>
+🌱 Passionate about exploring and building projects that benefit society.<br>
+🤖 Robotics enthusiast with a strong inclination towards Machine Learning.<br>
+🚀 Excited to integrate robotics and ML in innovative ways.<br>
+♟️ Fun fact: I'm a chess fan.<br>
 
 
 ## 🌐 Socials:
