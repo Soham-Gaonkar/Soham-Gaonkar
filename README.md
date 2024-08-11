@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing a BTech degree in Electrical Engineering at IIT Gandhinagar.<br>
+🔭 I’m currently pursuing a BTech degree in Artificial intelligence at IIT Gandhinagar.<br>
 🌱 Passionate about exploring and building projects that benefit society.<br>
 🤖 Robotics enthusiast with a strong inclination towards Machine Learning.<br>
 🚀 Excited to integrate robotics and ML in innovative ways.<br>
