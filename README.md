@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!+I+am+Soham+Gaonkar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Soham+Gaonkar." alt="Typing SVG" /></a>
 
 # 💫 About Me:
 🔭 I’m currently pursuing a BTech degree in Artificial intelligence at IIT Gandhinagar.<br>
