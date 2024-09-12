@@ -1,4 +1,4 @@
-# Hi! I am Soham Gaonkar
+# Hi ! I am Soham Gaonkar
 
 # 💫 About Me:
 🔭 I’m currently pursuing a BTech degree in Artificial intelligence at IIT Gandhinagar.<br>
