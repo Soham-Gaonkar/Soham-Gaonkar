@@ -1,18 +1,17 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Soham+Gaonkar;AI+Undergrad+%40+IIT+Gandhinagar;ML+%7C+Computer+Graphics+%7C+Vision+%7C+FPGA"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=9F79EE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Soham+Gaonkar;AI+Undergrad+%40+IIT+Gandhinagar;ML+%7C+Computer+Graphics+%7C+Vision+%7C+FPGA"/>
 
   <br/>
-  <p>
-    <a href="https://linkedin.com/in/soham-gaonkar-885426280">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    &nbsp;
-    <a href="https://visitcount.itsvg.in/api?id=Soham-Gaonkar&icon=0&color=0">
-      <img src="https://visitcount.itsvg.in/api?id=Soham-Gaonkar&icon=0&color=0" alt="Profile Visits">
-    </a>
-  </p>
+
+  <a href="https://linkedin.com/in/soham-gaonkar-885426280">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://visitcount.itsvg.in/api?id=Soham-Gaonkar">
+    <img src="https://visitcount.itsvg.in/api?id=Soham-Gaonkar&label=Profile+Visits&color=6A5ACD&style=for-the-badge" alt="Profile Visits"/>
+  </a>
 </div>
 
 ---
@@ -63,3 +62,4 @@
 <p align="center">
   <em>Let's collaborate or just connect — feel free to reach out!</em>
 </p>
+
