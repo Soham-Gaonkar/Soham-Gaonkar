@@ -1,12 +1,14 @@
 
-<!-- PROFILE HEADER -->
+<!-- HEADER -->
 <div align="center">
-  <h1>👋 Hi there, I'm Soham Gaonkar</h1>
-  <p>🔭 B.Tech. AI @ IIT Gandhinagar &nbsp; | &nbsp; 🤖 ML Enthusiast</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Soham+Gaonkar;AI+Undergrad+%40+IIT+Gandhinagar;ML+%7C+Computer+Graphics+%7C+Vision+%7C+FPGA"/>
+
+  <br/>
   <p>
     <a href="https://linkedin.com/in/soham-gaonkar-885426280">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    &nbsp;
     <a href="https://visitcount.itsvg.in/api?id=Soham-Gaonkar&icon=0&color=0">
       <img src="https://visitcount.itsvg.in/api?id=Soham-Gaonkar&icon=0&color=0" alt="Profile Visits">
     </a>
@@ -15,51 +17,49 @@
 
 ---
 
-## 🌟 About Me
+## 🧠 About Me
 
-- 🎓 Pursuing **B.Tech. in Artificial Intelligence** at **IIT Gandhinagar**
-- 🛠️ Building impactful **Machine Learning** solutions
-- 🚀 Passionate about **Computer Graphics**, **Computer Vision**, and **Embedded Systems**
-- 🎲 Chess lover & life‑long learner
-
----
-
-## 🚀 My Works
-
-### 🔹 360° Panorama → Computer Graphics *(Internship @ CVIG Lab)*
-- Built an end‑to‑end pipeline to reconstruct dense 3D scenes from a single 360° panorama
-- Implemented MonoDepth360-based depth prediction with RGB fusion → dense point clouds
-- Generated synthetic views using Fibonacci-sphere sampling and two-stage inpainting
-- Trained a 3D Gaussian Splatting model for inverse rendering
-- 📎 [View Project](https://github.com/Soham-Gaonkar/panoto3D)
-
-### 🔹 Ultrasound Segmentation of Histotripsy Ablation *(Research with Prof. H. Shekhar)*
-- Developed a DeepLabV3 segmentation model using Dice-Focal loss
-- Achieved **83% Mean IoU** and **97% Accuracy** on clinical ultrasound datasets
-- Designed for robustness on low-contrast early-pulse frames
-- 📎 [View Poster & Code](https://drive.google.com/drive/folders/107V1sfC3DDkQrA591Dv3S4Cy5m0KDAC5?usp=sharing)
-
-### 🔹 MiniTorch – A Lightweight PyTorch Clone
-- Built from scratch in NumPy: custom autograd engine, tensor ops, layers, and optimizers
-- Visualized computation graphs using Graphviz
-- 📎 [View Repository](https://github.com/Umang-Shikarvar/miniTorch)
-
-### 🔹 JPEG Compression on FPGA *(Under Prof. Joycee Mekie)*
-- Designed a JPEG compression pipeline with DCT + top-k coefficient pruning
-- Achieved ~50% compression with PSNR > 30 on the Basys3 board
-- Developed Verilog FSM modules and UART interfacing
-- 📎 [View Repository](https://github.com/Reckadon/JPEG-Compressiont)
+- 🎓 Final-year **B.Tech. Artificial Intelligence** student at **IIT Gandhinagar**
+- 💡 Building impactful **Machine Learning** & **Computer Vision** applications
+- ✨ Passionate about **Computer Graphics** and **Embedded Systems**
+- ♟️ Chess nerd and curious lifelong learner
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 🚀 Notable Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soham-Gaonkar&theme=dark&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Gaonkar&theme=dark&layout=compact" alt="Top Languages">
-</div>
+### 📌 360° Panorama → Computer Graphics (Internship @ CVIG Lab)
+- Full pipeline for turning a single 360° ERP image into a dense 3D scene
+- Used MonoDepth360 + inpainting → dense RGB-D point cloud → 3D Gaussian Splatting
+- Created novel views by uniformly sampling on a sphere and rendering from it
+- 🔗 [View Project](https://github.com/Soham-Gaonkar/panoto3D)
+
+### 📌 Ultrasound Segmentation (with Prof. Himanshu Shekhar)
+- Trained DeepLabV3 with Dice-Focal loss → **83% IoU**, **97% accuracy**
+- Worked on early-pulse low-contrast frames from real clinical datasets
+- 🔗 [Poster & Code](https://drive.google.com/drive/folders/107V1sfC3DDkQrA591Dv3S4Cy5m0KDAC5?usp=sharing)
+
+### 📌 MiniTorch – PyTorch from Scratch
+- Developed a lightweight neural net framework using NumPy and Graphviz
+- Implemented tensor ops, layers, autograd engine, optimizers
+- 🔗 [MiniTorch Repository](https://github.com/Umang-Shikarvar/miniTorch)
+
+### 📌 JPEG Compression on FPGA (with Prof. Joycee Mekie)
+- Designed and simulated JPEG pipeline on Basys3 FPGA board
+- Used DCT and coefficient pruning for ~50% compression with PSNR > 30
+- 🔗 [FPGA Repo](https://github.com/Reckadon/JPEG-Compressiont)
 
 ---
 
-<p align="center">_Feel free to <a href="mailto:soham.g@example.com">reach out</a> for collaborations or questions!_</p>
+## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soham-Gaonkar&theme=tokyonight&show_icons=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Gaonkar&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  <em>Let's collaborate or just connect — feel free to reach out!</em>
+</p>
