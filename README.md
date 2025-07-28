@@ -5,13 +5,10 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/soham-gaonkar-885426280">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
   &nbsp;
-  <a href="https://visitcount.itsvg.in/api?id=Soham-Gaonkar">
+<!--   <a href="https://visitcount.itsvg.in/api?id=Soham-Gaonkar">
     <img src="https://visitcount.itsvg.in/api?id=Soham-Gaonkar&label=Profile+Visits&color=6A5ACD&style=for-the-badge" alt="Profile Visits"/>
-  </a>
+  </a> -->
 </div>
 
 ---
