@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
-<!--   <a href="https://visitcount.itsvg.in/api?id=Soham-Gaonkar">
+  <a href="https://visitcount.itsvg.in/api?id=Soham-Gaonkar">
     <img src="https://visitcount.itsvg.in/api?id=Soham-Gaonkar&label=Profile+Visits&color=6A5ACD&style=for-the-badge" alt="Profile Visits"/>
-  </a> -->
+  </a>
 </div>
 
 ---
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 Some of my works
 
 ### 📌 360° Panorama → Computer Graphics (Internship @ CVIG Lab)
 - Full pipeline for turning a single 360° ERP image into a dense 3D scene
@@ -53,8 +53,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soham-Gaonkar&theme=tokyonight&show_icons=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Gaonkar&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soham-Gaonkar&theme=tokyonight&show_icons=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Gaonkar&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
@@ -62,4 +62,3 @@
 <p align="center">
   <em>Let's collaborate or just connect — feel free to reach out!</em>
 </p>
-
