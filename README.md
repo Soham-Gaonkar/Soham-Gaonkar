@@ -23,9 +23,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [soham.gaonkar@example.com](mailto:soham.gaonkar@example.com)  
-- 💼 LinkedIn: [Soham Gaonkar](https://www.linkedin.com/in/soham-gaonkar)  
-- 🌐 Portfolio: [sohamgaonkar.dev](https://sohamgaonkar.dev)  
+- 📧 Email: [soham.gaonkar@iitgn.ac.in](mailto:soham.gaonkar@iitgn.ac.in)
+- 💼 LinkedIn: [Soham Gaonkar](https://www.linkedin.com/in/soham-gaonkar-885426280/) 
+- 🌐 Portfolio: [soham-gaonkar](https://soham-gaonkar.github.io)  
 
 ---
 
