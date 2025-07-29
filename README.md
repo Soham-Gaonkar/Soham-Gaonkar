@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=9F79EE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Soham+Gaonkar;AI+Undergrad+%40+IIT+Gandhinagar;ML+%7C+Computer+Graphics+%7C+Vision"/>
@@ -19,6 +18,14 @@
 - 💡 Building impactful **Machine Learning** & **Computer Vision** applications
 - ✨ Passionate about **Computer Graphics** 
 - ♟️ Chess nerd and curious lifelong learner
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [soham.gaonkar@example.com](mailto:soham.gaonkar@example.com)  
+- 💼 LinkedIn: [Soham Gaonkar](https://www.linkedin.com/in/soham-gaonkar)  
+- 🌐 Portfolio: [sohamgaonkar.dev](https://sohamgaonkar.dev)  
 
 ---
 
